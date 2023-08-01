@@ -1,5 +1,22 @@
 # Module 6 Challenge Web APIs: Code Quiz
 
+## Description
+
+This project involves developing a timed coding quiz! Once the quiz starts, the timer will start counting down. The player receives feedback after every answer. Correct answers award 10 points and incorrect answers remove 10 points from the score and reduces remaining time. At the end of the quiz users can record their score and compare their scores against the other players.
+
+## Deployment
+
+The project is deployed in the following URL: https://roliveira527.github.io/web-API-coding-quiz-roliveira527/
+
+## Screenshots
+
+Screenshots of the code quiz:
+
+![quiz main screen](./assets/screenshots/screenshot_1.png)
+![quiz example question demo](./assets/screenshots/screenshot_2.png)
+![quiz recording score demo](./assets/screenshots/screenshot_3.png)
+![quiz highscores screen demo](./assets/screenshots/screenshot_4.png)
+
 ## Your Task
 
 As you proceed in your journey to becoming a front-end web developer, it’s likely that you’ll be asked to complete a coding assessment, perhaps as part of an interview process. A typical coding assessment is a combination of multiple-choice questions and interactive coding challenges. 
